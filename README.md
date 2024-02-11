@@ -17,11 +17,11 @@ Estudo atualmente focado no front-end, más já tenho um pouco de conhecimento c
 
 
 ### Meus Projetos
+* [Blog Com Angular](https://henferreirapro.github.io/projeto-blog-angular/)<br>
 * [Pokedex](https://henferreirapro.github.io/JS-Pokedex-DIO/)<br>
 * [AluraFlix](https://codepen.io/henferreirapro/pen/XWqKZVJ)<br>
 * [CurriculoDev](https://henferreirapro.github.io/Curriculo-Dev/)<br>
 * [Contador](https://henferreirapro.github.io/Projeto-Contador-DIO/)<br>
-
 
 ### Minhas redes
 [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henferreirapro)<BR>
