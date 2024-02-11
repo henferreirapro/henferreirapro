@@ -14,7 +14,7 @@ Estudo atualmente focado no front-end, más já tenho um pouco de conhecimento c
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=264CE4)
-
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=jdk&logoColor=264CE4)
 
 ### Meus Projetos
 * [Blog Com Angular](https://henferreirapro.github.io/projeto-blog-angular/)<br>
